@@ -78,4 +78,9 @@ class EachLineKindaUnitTestSpec extends Specification {
 			actualString == "This is simple multiline string,"
 	}
 
+
+
+
+
+
 }
